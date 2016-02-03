@@ -1,0 +1,31 @@
+Initial guess parameters:
+=========================
+                      Peak 1, Peak 2
+Peak center =         480.0, 560.00
+Amplitude fit 1 =     20.0, 20.00
+Amplitude fit 2 =     15.0, 15.00
+Standard dev. fit 1 = 10.0, 5.0
+Standard dev. fit 2 = 10.0, 5.0
+
+Baseline parameters:
+=========================
+Slope =               -0.02
+Intercept =           21.12
+
+Fitted parameters:
+=========================
+                      Peak 1, Peak 2
+Peak center =         479.26, 557.07
+Amplitude fit 1 =     16.45, 27.02
+Amplitude fit 2 =     11.32, 14.54
+Standard dev. fit 1 = 18.12, 7.04
+Standard dev. fit 2 = 28.89, 6.63
+
+Calculation output:
+========================
+Mean peak 1 =         479.3 $\pm$ 0.15
+Mean peak 2 =         557.1 $\pm$ 0.30
+Height peak 1 =       57.4 $\pm$ 0.48
+Height peak 2 =       38.6 $\pm$ 0.44
+Area peak 1 =         1731.1
+Area peak 2 =         1500.6
