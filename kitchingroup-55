@@ -1,0 +1,4 @@
+(kitchingroup-55
+ :fetcher github
+ :repo "KitchinHUB/kitchingroup-55"
+ :files ("*"))
