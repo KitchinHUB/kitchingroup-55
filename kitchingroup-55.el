@@ -1,4 +1,4 @@
-;;; kitchingroup-55.el --- CaPPA preprint for doi:
+;;; kitchingroup-55.el --- Alkaline Electrolyte and Fe Impurity Effects on the Performance and Active-Phase Structure of {NiOOH} Thin Films for {OER} Catalysis Applications
 
 ;; Copyright (C) 2016 John Kitchin
 
@@ -31,7 +31,7 @@
 
 ;;; Commentary:
 
-;; Put some descriptive text here.
+;; The data files are too large for CaPPA.
 
 ;;; Code:
 (require 'cappa)
