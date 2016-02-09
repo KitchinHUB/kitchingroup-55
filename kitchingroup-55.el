@@ -27,7 +27,7 @@
 ;;   url =		 {http://dx.doi.org/10.1021/acs.jpcc.5b02458},
 ;;   keywords =	 {org-mode, DESC0004031, early-career},
 ;;   date_added =	 {Fri May 15 11:25:58 2015},
-;; }
+;;  }
 
 ;;; Commentary:
 
